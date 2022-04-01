@@ -1,0 +1,4 @@
+/* Task 4  */
+div[title]:not(.no-need, .parent div) {
+    color: red;
+}
